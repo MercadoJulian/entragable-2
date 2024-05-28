@@ -35,5 +35,15 @@
 
 .listado-navegador li a {
     color: white;
-    font-weight: 600;
+    font-weight: 500;
+}
+
+.listado-navegador li a:hover {
+    color: #181818;
+    background-color: white;
+    padding: 0.1rem;
+    font-weight: 700;
+    font-size: 1.4;
+    position: relative;
+    top: -0.2rem;
 }
